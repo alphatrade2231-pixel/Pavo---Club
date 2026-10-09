@@ -4,7 +4,7 @@
 // Supabase Dashboard > Project Settings > API.
 // NEVER put the service_role / secret key in this folder.
 // =====================================================================
-export const SUPABASE_URL = https://uocmcuisetabyiuihxch.supabase.co/rest/v1/';
+export const SUPABASE_URL = https://uocmcuisetabyiuihxch.supabase.co/rest/v1/
 export const SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_P8Q5gS_osuJsK5M1X4q8cQ_b1fBjQfA';
 
 export const isConfigured = () =>
