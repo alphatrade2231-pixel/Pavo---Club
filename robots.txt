@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# Replace YOUR-DOMAIN with the real address of the site (e.g. https://username.github.io/pavo-club)
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
