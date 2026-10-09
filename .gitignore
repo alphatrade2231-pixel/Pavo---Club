@@ -1,7 +1,0 @@
-.DS_Store
-node_modules/
-*.log
-.env
-.env.*
-# never commit secret keys
-*service_role*
